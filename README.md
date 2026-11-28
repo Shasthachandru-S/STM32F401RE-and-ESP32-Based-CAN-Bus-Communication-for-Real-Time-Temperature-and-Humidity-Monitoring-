@@ -273,3 +273,7 @@ Embedded Systems Engineer
 ## License
 
 This project is available for educational and learning purposes. You are welcome to study, modify, and extend the implementation.
+<img width="719" height="1600" alt="can_to_can" src="https://github.com/user-attachments/assets/4dee513b-2f59-4117-a0d2-3e9bb029c032" />
+<img width="1600" height="719" alt="can_can_1" src="https://github.com/user-attachments/assets/5659a9ab-4bea-4365-b3c9-7c6aceeb6402" />
+<img width="719" height="1600" alt="can1_to_can2" src="https://github.com/user-attachments/assets/0ad97934-d899-4652-b853-ef11488b1bea" />
+
